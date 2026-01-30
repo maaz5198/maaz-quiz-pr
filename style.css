@@ -1,0 +1,30 @@
+.left-section{
+    width: 300px;
+    background-color: #508c88;
+}
+
+.right-section{
+    width: 300px;
+    background-color: #508c88;
+}
+
+.middle-section{
+    width: calc(100% - 600px);
+    background-color: lightgreen;
+    left: 300px;.left-section{
+    width: 300px;
+    background-color: #508c88;
+}
+
+.right-section{
+    width: 300px;
+    background-color: #508c88;
+}
+
+
+.middle-section{
+    width: calc(100% - 600px);
+    background-color: lightgreen;
+    left: 300px;
+}
+}
